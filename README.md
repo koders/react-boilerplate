@@ -2,8 +2,6 @@
 
 Simple react boilerplate
 
-----------
-
 ###Technologies:
 
 - React
@@ -21,5 +19,4 @@ Simple react boilerplate
 #### <i class="icon-hdd"></i> Installation
 ```
 npm install
-
 ```
