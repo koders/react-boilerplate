@@ -20,3 +20,8 @@ Simple react boilerplate
 ```
 npm install
 ```
+
+#### Run
+```
+npm start
+```
